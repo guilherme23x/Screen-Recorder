@@ -1,0 +1,9 @@
+[Desktop Entry]
+Version=1.0
+Name=Gravador de Tela
+Comment=Grave a tela do seu computador com facilidade
+Exec=/usr/bin/gravador-tela
+Icon=gravador-tela
+Terminal=false
+Type=Application
+Categories=AudioVideo;
