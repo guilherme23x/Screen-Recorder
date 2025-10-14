@@ -87,5 +87,4 @@ Este projeto está licenciado sob a Licença MIT. Veja o arquivo LICENSE para ma
 
 ## 👤 Autor
 
-* **Gui23x**
-* **Email:** guigomes23x@gmail.com
+* **Guilherme23x**
