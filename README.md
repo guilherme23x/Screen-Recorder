@@ -1,4 +1,5 @@
-![MacBook Air PSD Mockup](https://github.com/user-attachments/assets/74bf1994-263c-43af-a164-13391b3f7eca)
+![MacBook Air PSD Mockup 1](https://github.com/user-attachments/assets/6a8b4cc3-ecb0-4c20-9af8-8da07f50b54d)
+
 
 
 # Gravador de Tela Simples para Linux
