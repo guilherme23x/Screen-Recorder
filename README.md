@@ -1,3 +1,6 @@
+![MacBook Air PSD Mockup](https://github.com/user-attachments/assets/74bf1994-263c-43af-a164-13391b3f7eca)
+
+
 # Gravador de Tela Simples para Linux
 
 Um aplicativo de gravação de tela leve e minimalista para desktops Linux, construído com Python e GTK3. Ideal para capturar a tela inteira, uma janela específica ou uma área selecionada com áudio do sistema e do microfone, de forma rápida e direta.
